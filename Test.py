@@ -11,27 +11,27 @@ from numpy.random import randint
 #     window.exitonclick()
 
 def carre(longueur: float): 
-    # turtle.setpos(20, 100)
-    # window = turtle.Screen()
     begin_fill()
-    # keith = turtle.Turtle()
     for i in range(4):
         forward(longueur)
         left(90)
     end_fill()
-    # window.exitonclick()
+    
 def cercle(rayon: float):  
     begin_fill()
     circle(rayon)
     end_fill()
+    
 def demi_cercle(rayon: float):
     begin_fill()
     circle(rayon, 180)
-    end_fill()    
+    end_fill()
+        
 def polygone(rayon: float, steps: int):
     begin_fill()
     circle(rayon, steps = steps)
-    end_fill()     
+    end_fill()
+         
 def rectangle(longueur: float, largeur: float):
     begin_fill()
     for i in range(2):
@@ -40,12 +40,14 @@ def rectangle(longueur: float, largeur: float):
         forward(largeur)
         right(90)
     end_fill()
+    
 def elipse(rayon: float):
     begin_fill()
     for i in range(2):
         circle(rayon, 90)
         circle(rayon//2, 90)
     end_fill()
+    
 def al_kashi(cote_1, cote_2, cote_3):
     angle = acos((cote_2**2 + cote_1**2 - cote_3**2)/(2*cote_2*cote_1))
     angle2 = acos((cote_3**2 + cote_2**2 - cote_1**2)/(2*cote_3*cote_2))
@@ -55,7 +57,6 @@ def al_kashi(cote_1, cote_2, cote_3):
 def triangle(cote_1: float, cote_2: float, cote_3: float, up: bool = True):
     angle, angle2 = al_kashi(cote_1, cote_2, cote_3)
     begin_fill()
-    print(angle, angle2)
     if up:
         forward(cote_1); left(180 - angle); forward(cote_2); left(180 - angle2); forward(cote_3)
     else:
@@ -70,7 +71,13 @@ def losange(cote: float, diag = randint(10, 50)):
     penup(); forward(diag); pendown(); left(anglep); forward(cote); left(anglep2); forward(cote)
     right(angle); stamp(); left(anglep); forward(cote); left(anglep2); forward(cote)
     end_fill()
-
+    
+def trapeze(cote_1: float, cote_2: float, cote_3: float = randint(20, 40), angle: float = 90):
+    position = pos()
+    begin_fill()
+    forward(cote_1); left(180 - angle); forward(cote_2); left(angle); forward(cote_3); goto(position) 
+    end_fill()
+    
 def set_move(x, y: float = None):
     penup()
     if(type(x) is tuple or type(x) is list and len(x) == 2):
