@@ -1,6 +1,14 @@
+# Importation des bibliotheques qui nous serviront dans ce module
+
+# Importons les fonctions de la librairie turtle pour les figures
 from turtle import *
+
+# Importons les fonctions mathematiques
 from math import *
-from numpy.random import randint
+
+# Importons la fonction random.randint de numpy 
+from numpy.random import randint as rdt
+
 # keith.speed(1)
 # def carre(longueur):  
 #     window = turtle.Screen()
@@ -63,7 +71,7 @@ def triangle(cote_1: float, cote_2: float, cote_3: float, up: bool = True):
         forward(cote_1); right(180 - angle); forward(cote_2); right(180 - angle2); forward(cote_3)
     end_fill()
 
-def losange(cote: float, diag = randint(10, 50)):
+def losange(cote: float, diag = rdt(10, 50)):
     angle, angle2 = al_kashi(diag, cote, cote)
     begin_fill()
     anglep = 180 - angle
@@ -72,7 +80,7 @@ def losange(cote: float, diag = randint(10, 50)):
     right(angle); stamp(); left(anglep); forward(cote); left(anglep2); forward(cote)
     end_fill()
     
-def trapeze(cote_1: float, cote_2: float, cote_3: float = randint(20, 40), angle: float = 90):
+def trapeze(cote_1: float, cote_2: float, cote_3: float = rdt(20, 40), angle: float = 90):
     position = pos()
     begin_fill()
     forward(cote_1); left(180 - angle); forward(cote_2); left(angle); forward(cote_3); goto(position) 
