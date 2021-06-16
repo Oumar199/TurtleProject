@@ -7,6 +7,6 @@ Le travail sera réparti comme suit :
 
 ## Voici l’image obtenue de la figure fusee :
 
-<p align="center">![fusee](https://user-images.githubusercontent.com/83582338/122277317-496a6f00-ced5-11eb-835a-082b90f0f2bd.png)</p>
+<img align="center">![fusee](https://user-images.githubusercontent.com/83582338/122277317-496a6f00-ced5-11eb-835a-082b90f0f2bd.png)</img>
 
  
