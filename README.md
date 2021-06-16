@@ -7,4 +7,5 @@ Le travail sera réparti comme suit :
 
 ## Voici l’image obtenue de la figure fusee :
                  
-                   
+![Capture d’écran (132)](https://user-images.githubusercontent.com/83582338/122276643-871ac800-ced4-11eb-8bed-9d2030170eb4.png)
+ 
