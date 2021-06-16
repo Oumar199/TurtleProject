@@ -6,6 +6,6 @@ Le travail sera réparti comme suit :
 - Samsidine Diatta va créer les modules avion.py, maison.py, et figure_choix.py. 
 
 ## Voici l’image obtenue de la figure fusee :
-                 
-![Capture d’écran (132)](https://user-images.githubusercontent.com/83582338/122276643-871ac800-ced4-11eb-8bed-9d2030170eb4.png)
+                 ![fusee](https://user-images.githubusercontent.com/83582338/122277317-496a6f00-ced5-11eb-835a-082b90f0f2bd.png)
+
  
