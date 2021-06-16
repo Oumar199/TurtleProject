@@ -9,4 +9,8 @@ Le travail sera réparti comme suit :
 
 ![fusee](https://user-images.githubusercontent.com/83582338/122277317-496a6f00-ced5-11eb-835a-082b90f0f2bd.png)
 
- 
+ |   Colonne 1    | colonne 2  |
+ |----------------|:-------------|
+ | ligne 1        | ligne 1    |
+ | ligne 2        | ligne 2    |
+ | ligne 3        | ligne 3    |
