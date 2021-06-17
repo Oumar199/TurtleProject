@@ -8,4 +8,5 @@ Le travail sera réparti comme suit :
 ## Voici l’image obtenue de la figure fusee :
 
 ![fusee](https://user-images.githubusercontent.com/83582338/122277317-496a6f00-ced5-11eb-835a-082b90f0f2bd.png)
-
+## Voici l'image obtenue de la figure fleur : (figure de choix)
+![fleur](https://user-images.githubusercontent.com/83582338/122446218-ef7baf00-cf91-11eb-8959-0de5dd9eaf49.png)
