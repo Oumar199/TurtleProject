@@ -81,5 +81,4 @@ rt(110)
 fd(94)
 end_fill()
 
-set_move(window_width()/2 - 120, window_height()/2-120)
 exitonclick()
