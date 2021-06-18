@@ -15,9 +15,9 @@ def figure_choix():
     #Vitesse d'execution rapide
     speed("fast")
     
-    #Tracer de telles fleurs demande un certain d'ajustements et 
+    #Tracer de telles fleurs demande un certain nombre d'ajustements et 
     #de calculs geometriques faits au prealable
-    #On commence d'abord avec la fleur verte derriere
+    #On commence d'abord avec la fleur verte 
     #On trace avec l'aide des demi-cercles
     pencolor("darkgreen")
     fillcolor("green")
