@@ -13,6 +13,7 @@ Le travail sera réparti comme suit :
 ### Voici l'image obtenue de la figure fleur : (figure de choix)
 ![fleur](https://user-images.githubusercontent.com/83582338/122446496-42556680-cf92-11eb-80b5-fd6828f5150e.png)
 ### Voici l'image obtenue de la figure maison : 
-![maison](https://user-images.githubusercontent.com/83582338/122622920-cdfdee80-d089-11eb-8cfc-2087500cf2ee.png)
+![maison](https://user-images.githubusercontent.com/83582338/122623052-39e05700-d08a-11eb-9800-0df4ffe25792.png)
+
 
 
