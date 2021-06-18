@@ -4,7 +4,7 @@
 from dessinMSDA import *
 def figure_choix():
     """Cette fonction permet de tracer notre figure de choix 
-    Tracer une fleur avec une image de arriere plan
+    Tracer une fleur avec une image d'arriere plan
     """
     #Configuration de la fenetre
     window = Screen()
