@@ -2,15 +2,16 @@ from dessinMSDA import *
 
 def maison():
     window=Screen()
-
+    window.setup(800, 800)
+    window
     #Gazon
-    bgcolor("green")
+    # bgcolor("green")
 
     #Ciel
     penup()
     setpos (-400, -100)
     pendown()
-    color("skyblue")
+    fillcolor("skyblue")
     begin_fill()
     carre(800)
     end_fill()
