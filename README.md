@@ -29,5 +29,9 @@ On ne précise pas toutes les fonctions utilisées mais seulement celles qui ont
 |Cercle          |Rien                   |ray1, ray2                                            |
 |origin_al_kachi |lcote3_rc1             |lcote1_rc1, lcote2_rc1, 90                            |
 
+### figure de choix (fleur) :
+|Figure_choix    |Recoit                 |Fournit                                             |
+|----------------|-----------------------|-----------------------------------------------------|
+|Demi_cercle     |Rien                   |rayon de 90 pixels, rayon de 60 pixels, rayon de 40 pixels|
 
 
