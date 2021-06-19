@@ -62,6 +62,6 @@ On ne précise pas toutes les fonctions utilisées mais seulement celles qui ont
 ## Conclusion :
 Turtle est une librairie trés dynamique et plait beaucoup aux enfants. C'est normal :), elle permet de dessiner des figures trés impressionnantes. Dessiner une figure demande cependant beaucoup d'imagination et on en a usé tout au long du projet avec un certain joie. On espère que ces codes serviront à l'avenir.
 
-## Recommadation :
-Pour tester les fonctions du programme, rendez vous au fichier jupyter programme_principale, enlevez les commentaires sur les fonctions et executez-en !
+## Recommandation :
+Pour tester les fonctions du programme, rendez vous au fichier jupyter programme_principal.ipynb, enlevez les commentaires sur les fonctions et executez-en !
 
