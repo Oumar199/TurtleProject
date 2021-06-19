@@ -23,14 +23,11 @@ On ne précise pas toutes les fonctions utilisées mais seulement celles qui ont
 ### Figure fusée :
 |Fusee           |Recoit                 |Fournit                                             |
 |----------------|-----------------------|------------------------------------------------------|
-|Triangle        |Rien                   |ltri1; lcote2_t2, lcote1_t2, lcote3_t2; lcote2_rc1,   |
-|                |                       |lcote3_rc1, lcote1_rc1; lcote1_fire, lcote3_fire,     |
-|                |                       |lcote2_fire; lcote2_rc3, lcote3_rc3, lcote1_rc3.      |
+|Triangle        |Rien                   |ltri1; lcote2_t2, lcote1_t2, lcote3_t2; lcote2_rc1, lcote3_rc1, lcote1_rc1; lcote1_fire, lcote3_fire, lcote2_fire; lcote2_rc3, lcote3_rc3, lcote1_rc3.|
 |----------------|-----------------------|------------------------------------------------------|
 |Carre           |Rien                   |lcar1; lcar2; lcote2_rc1; lcar3; lcar4                |
 |----------------|-----------------------|------------------------------------------------------|
-|Rectangle       |Rien                   |lrec1, Lrec1; lcote2_rc1; lrec2, lcote2_rc1; lrec3,   |
-|                |                       |Lrec3                                                 |
+|Rectangle       |Rien                   |lrec1, Lrec1; lcote2_rc1; lrec2, lcote2_rc1; lrec3, Lrec3|                                              
 |----------------|-----------------------|------------------------------------------------------|
 |Cercle          |Rien                   |ray1, ray2                                            |
 |----------------|-----------------------|------------------------------------------------------|
