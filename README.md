@@ -48,3 +48,21 @@ On ne précise pas toutes les fonctions utilisées mais seulement celles qui ont
 |Triangle        |Rien                   |longueurs des côtés du toit       |
 |Carre           |Rien                   |longueur cadre                    |
 |Carres          |positionpc1            |longueur pc (petit carré)         |
+=======
+
+### Figure Maison :
+|Maison          |Recoit                 |Fournit                                             |
+|----------------|-----------------------|-----------------------------------------------------|
+|Rectangle       |Rien                   |largeur_fenetre, longeur_fenetre / 2; longueur_chemine, largeur_chemine; longueur_porte, largeur_porte; longueur_bas_cadre, largeur_bas_cadre; longueur_marche, largeur_marche|
+|Cercle          |Rien                   |rayon de 30 pixels                |
+|Triangle        |Rien                   |longueurs des côtés du toit       |
+|Carre           |Rien                   |longueur cadre                    |
+|Carres          |positionpc1            |longueur pc (petit carré)         |
+
+
+## Conclusion :
+Turtle est une librairie trés dynamique et plait beaucoup aux enfants. C'est normal :), elle permet de dessiner des figures trés impressionnantes. Dessiner une figure demande cependant beaucoup d'imagination et on en a usé tout au long du projet avec un certain joie. On espère que ces codes serviront à l'avenir.
+
+## Recommadation :
+Pour tester les fonctions du programme, rendez vous au fichier jupyter programme_principale, enlevez les commentaires sur les fonctions et executez-en !
+
