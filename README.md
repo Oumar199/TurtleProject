@@ -15,7 +15,8 @@ Les concepts ont été élaborés grâce aux talents de dessinateur de Oumar Kan
 ### Voici l'image obtenue de la figure maison : 
 ![maison](https://user-images.githubusercontent.com/83582338/122623052-39e05700-d08a-11eb-9800-0df4ffe25792.png)
 ### Voici l'image obtenue de la figure avion :
-![avion](https://user-images.githubusercontent.com/83582338/122646863-ecf39380-d110-11eb-99f2-4162c56b02af.png)
+![avion](https://user-images.githubusercontent.com/83582338/122657727-c277f980-d155-11eb-9bab-539683022dc3.png)
+
 
 ## Les tableaux de flux de données de chaque figure : 
 On ne précise pas toutes les fonctions utilisées mais seulement celles qui ont été les plus utiles.
