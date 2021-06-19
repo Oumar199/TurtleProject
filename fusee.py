@@ -116,10 +116,10 @@ def fusee():
     ray1 = 12
     set_move(pos()[0] - lcar3/2 - 6, pos()[1] + 4)
     setheading(0)
-    fillcolor("yellow"); begin_fill(); circle(ray1); end_fill()
+    fillcolor("yellow"); begin_fill(); cercle(ray1); end_fill()
     set_move(positions["carre4"][0] + lcar3 * 1.5 + 6, positions["carre4"][1] + 4)
     setheading(0)
-    fillcolor("yellow"); begin_fill(); circle(ray1); end_fill()
+    fillcolor("yellow"); begin_fill(); cercle(ray1); end_fill()
     
     #On place un rectangle en dessous carre, de couleur violet sombre
     lrec2 = lcar3 * 2
@@ -136,9 +136,9 @@ def fusee():
     #couleur violet sombre
     ray2 = 3
     set_move(pos()[0] - lcar4, pos()[1])
-    fillcolor("darkviolet"); begin_fill(); circle(ray2); end_fill()
+    fillcolor("darkviolet"); begin_fill(); cercle(ray2); end_fill()
     set_move(positions["carre5"][0] + lcar4*2, positions["carre5"][1]) 
-    fillcolor("darkviolet"); begin_fill(); circle(ray2); end_fill()
+    fillcolor("darkviolet"); begin_fill(); cercle(ray2); end_fill()
     
     #Et enfin on termine avec un rectangle en dessous du dernier carre avec des triangles
     # tracés avec la fameuse methode d'al-kachi
