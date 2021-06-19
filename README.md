@@ -17,7 +17,24 @@ Le travail sera réparti comme suit :
 ### Voici l'image obtenue de la figure avion :
 ![avion](https://user-images.githubusercontent.com/83582338/122646863-ecf39380-d110-11eb-99f2-4162c56b02af.png)
 
+## Les tableaux de flux de données de chaque figure : 
+On ne précise pas toutes les fonctions utilisées mais seulement celles qui ont été les plus utiles.
 
+### Figure fusée :
+|Fusee           |Recoit                 |Fournit                                             |
+|----------------|-----------------------|------------------------------------------------------|
+|Triangle        |Rien                   |ltri1; lcote2_t2, lcote1_t2, lcote3_t2; lcote2_rc1,   |
+|                |                       |lcote3_rc1, lcote1_rc1; lcote1_fire, lcote3_fire,     |
+|                |                       |lcote2_fire; lcote2_rc3, lcote3_rc3, lcote1_rc3.      |
+|----------------|-----------------------|------------------------------------------------------|
+|Carre           |Rien                   |lcar1; lcar2; lcote2_rc1; lcar3; lcar4                |
+|----------------|-----------------------|------------------------------------------------------|
+|Rectangle       |Rien                   |lrec1, Lrec1; lcote2_rc1; lrec2, lcote2_rc1; lrec3,   |
+|                |                       |Lrec3                                                 |
+|----------------|-----------------------|------------------------------------------------------|
+|Cercle          |Rien                   |ray1, ray2                                            |
+|----------------|-----------------------|------------------------------------------------------|
+|origin_al_kachi |lcote3_rc1             |lcote1_rc1, lcote2_rc1, 90                            |
 
 
 
