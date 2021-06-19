@@ -5,9 +5,9 @@ Le travail sera réparti comme suit :
 - Oumar Kane a créé le module dessinMSDA.py avec les différentes fonctions qu'il va contenir, écrit les commentaires de spécification des fonctions et construit le module fusee; 
 - Samsidine Diatta a créé le module avion et figure_choix;
 - Oumar et Samsidine ont collaboré pour créer le module maison;
-- Les concepts ont été élaborés grâce aux talents de dessinateur de Oumar Kane et aux quelques idées ingénieuses apportées par Samsidine.</p>
+- Les concepts ont été élaborés grâce aux talents de dessinateur de Oumar Kane et aux quelques idées ingénieuses apportées par Samsidine. De bonnes connaissances en algorithmique et en python ont été également nécessaires.</p>
 
-## Voici les différentes images obtenues des figures (dessins originaux) :
+## Voici les différentes images obtenues des figures (dessins originaux avec turtle) :
 ### Voici l’image obtenue de la figure fusee :
 ![fusee](https://user-images.githubusercontent.com/83582338/122277317-496a6f00-ced5-11eb-835a-082b90f0f2bd.png)
 ### Voici l'image obtenue de la figure fleur : (figure de choix)
