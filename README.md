@@ -48,7 +48,6 @@ On ne précise pas toutes les fonctions utilisées mais seulement celles qui ont
 |Triangle        |Rien                   |longueurs des côtés du toit       |
 |Carre           |Rien                   |longueur cadre                    |
 |Carres          |positionpc1            |longueur pc (petit carré)         |
-=======
 
 ### Figure Maison :
 |Maison          |Recoit                 |Fournit                                             |
