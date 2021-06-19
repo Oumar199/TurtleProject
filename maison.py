@@ -57,7 +57,7 @@ def maison():
     set_move(- (window_width() * 4)/12, (window_height() * 4)/12)
     penup()
     fillcolor("yellow")
-    begin_fill(); circle(30); end_fill()
+    begin_fill(); cercle(30); end_fill()
     pendown
     
     #Conception du toit et stockage de la position du curseur apres tracage
