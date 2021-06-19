@@ -1,11 +1,11 @@
 ﻿# TurtleProject
 ## Description du projet :
 <p align="justify">Ce projet consiste à créer 5 modules pour la création d'un programme permettant de tracer des figures grâce à la librairie Turtle de Python. Pep8 nous a permis de styliser le code. 
-Le travail sera réparti comme suit : 
-- Oumar Kane a créé le module dessinMSDA.py avec les différentes fonctions qu'il va contenir, écrit les commentaires de spécification des fonctions et construit le module fusee; 
-- Samsidine Diatta a créé le module avion et figure_choix;
+Le travail est réparti comme suit : 
+- Oumar Kane a créé le module dessinMSDA et le module fusee; 
+- Samsidine Diatta a créé le module avion et le module figure_choix;
 - Oumar et Samsidine ont collaboré pour créer le module maison;
-- Les concepts ont été élaborés grâce aux talents de dessinateur de Oumar Kane et aux quelques idées ingénieuses apportées par Samsidine. De bonnes connaissances en algorithmique et en python ont été également nécessaires.</p>
+Les concepts ont été élaborés grâce aux talents de dessinateur de Oumar Kane et à certaines idées ingénieuses apportées par Samsidine. De bonnes connaissances en algorithmique et en python ont été également nécessaires.</p>
 
 ## Voici les différentes images obtenues des figures (dessins originaux avec turtle) :
 ### Voici l’image obtenue de la figure fusee :
