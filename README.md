@@ -35,3 +35,16 @@ On ne précise pas toutes les fonctions utilisées mais seulement celles qui ont
 |Demi_cercle     |Rien                   |rayon de 90 pixels, rayon de 60 pixels, rayon de 40 pixels|
 
 
+### Figure avion :
+|Avion           |Recoit                 |Fournit                                            |
+|----------------|-----------------------|-----------------------------------------------------|
+|Demi_cercle     |Rien                   |rayon de 25 pixels                                   |
+
+### Figure Maison :
+|Maison          |Recoit                 |Fournit                                             |
+|----------------|-----------------------|-----------------------------------------------------|
+|Rectangle       |Rien                   |largeur_fenetre, longeur_fenetre / 2; longueur_chemine, largeur_chemine; longueur_porte, largeur_porte; longueur_bas_cadre, largeur_bas_cadre; longueur_marche, largeur_marche|
+|Cercle          |Rien                   |rayon de 30 pixels                |
+|Triangle        |Rien                   |longueurs des côtés du toit       |
+|Carre           |Rien                   |longueur cadre                    |
+|Carres          |positionpc1            |longueur pc (petit carré)         |
