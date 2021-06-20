@@ -1,6 +1,6 @@
 from dessinMSDA import *
 def maison():
-    """Cette fonction a pour but de construire avec le paysage l'avoisinant
+    """Cette fonction a pour but de concevoir une maison avec le paysage l'avoisinant
     """
     #Initialisation de la fenetre 
     window = Screen()
