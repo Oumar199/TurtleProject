@@ -34,7 +34,7 @@ def maison():
     longueurbascadre = [longueurcadre, longueurcadre / 18]
     couleurbascadre = "black"
     
-    #Initialisation de la longueur de la largeur de la marche pres de la porte de la maison
+    #Initialisation de la longueur et de la largeur de la marche pres de la porte de la maison
     # et de sa couleur de contour
     longueurmarche = [longueursporte[0] + 19, longueurbascadre[1]]
     couleurmarche = "black"
@@ -197,7 +197,7 @@ def carres(longueurpc):
     """Cette fonction permet de concevoir les fenetres de la maison
     """
     #Boucle qui trace successivement chaque case de la fenetre avec des couleurs de fond differents
-    #pour les cotes du haut et du bas de chaque fenetre
+    #pour les parties haut et bas de chaque fenetre
     for i in range(2):
         if (i == 0):
             fillcolor("lightblue")
