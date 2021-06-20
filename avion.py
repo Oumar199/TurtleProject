@@ -13,15 +13,13 @@ def avion():
     set_move(pos()[0] + 70, pos()[1] + 100)
     
     #Tete Avion
-    pencolor("green")
-    fillcolor("green")
+    pencolor("deepskyblue")
+    fillcolor("hotpink")
     begin_fill()
     demi_cercle(20)
     end_fill()
     
     #Corps Avion
-    pencolor("green")
-    fillcolor("yellow")
     begin_fill()
     forward(110)
     positionA1 = position()
@@ -41,28 +39,10 @@ def avion():
     positionA2 = position()
     fd(110)
     end_fill()
-    #Precisons une couleur pour le milieu de l'avion
-    pencolor("blue")
-    fillcolor("blue")
-    set_move(positionA1)
-    begin_fill()
-    setpos(positionA1fin)
-    setpos(positionA2fin)
-    setpos(positionA2)
-    end_fill()
-    #Precisons une couleur pour l'arriere de l'avion (non compris le queue)
-    pencolor("green")
-    fillcolor("green")
-    set_move(positionA1fin)
-    begin_fill()
-    setpos(positionqueue1)
-    setpos(positionqueue2)
-    setpos(positionA2fin)
-    end_fill()
-
+   
     #Ails
-    pencolor("green")
-    fillcolor("red")
+    pencolor("hotpink")
+    fillcolor("deepskyblue")
     #AilGauche
     begin_fill()
     set_move(positionA1)
@@ -86,8 +66,8 @@ def avion():
     setpos(positionA2)
     end_fill()
 
-    pencolor("darkgreen")
-    fillcolor("green")
+    pencolor("hotpink")
+    fillcolor("deepskyblue")
     #QueueGuauche
     begin_fill()
     set_move(positionqueue1)
