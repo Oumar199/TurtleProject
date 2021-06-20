@@ -1,11 +1,11 @@
 ﻿# TurtleProject
 ## Description du projet :
 <p align="justify">Ce projet consiste à créer 5 modules pour la création d'un programme permettant de tracer des figures grâce à la librairie Turtle de Python. Pep8 nous a permis de styliser le code. 
-Le travail sera réparti comme suit : 
-- Oumar Kane a créé le module dessinMSDA.py avec les différentes fonctions qu'il va contenir, écrit les commentaires de spécification des fonctions et construit le module fusee; 
-- Samsidine Diatta a créé le module avion et figure_choix;
+Le travail est réparti comme suit : 
+- Oumar Kane a créé le module dessinMSDA et le module fusee; 
+- Samsidine Diatta a créé le module avion et le module figure_choix;
 - Oumar et Samsidine ont collaboré pour créer le module maison;
-- Les concepts ont été élaborés grâce aux talents de dessinateur de Oumar Kane et aux quelques idées ingénieuses apportées par Samsidine. De bonnes connaissances en algorithmique et en python ont été également nécessaires.</p>
+Les concepts ont été élaborés grâce aux talents de dessinateur de Oumar Kane et à certaines idées ingénieuses apportées par Samsidine. De bonnes connaissances en algorithmique et en python ont été également nécessaires.</p>
 
 ## Voici les différentes images obtenues des figures (dessins originaux avec turtle) :
 ### Voici l’image obtenue de la figure fusee :
@@ -15,7 +15,8 @@ Le travail sera réparti comme suit :
 ### Voici l'image obtenue de la figure maison : 
 ![maison](https://user-images.githubusercontent.com/83582338/122623052-39e05700-d08a-11eb-9800-0df4ffe25792.png)
 ### Voici l'image obtenue de la figure avion :
-![avion](https://user-images.githubusercontent.com/83582338/122646863-ecf39380-d110-11eb-99f2-4162c56b02af.png)
+![avion](https://user-images.githubusercontent.com/83582338/122657727-c277f980-d155-11eb-9bab-539683022dc3.png)
+
 
 ## Les tableaux de flux de données de chaque figure : 
 On ne précise pas toutes les fonctions utilisées mais seulement celles qui ont été les plus utiles.
@@ -48,7 +49,6 @@ On ne précise pas toutes les fonctions utilisées mais seulement celles qui ont
 |Triangle        |Rien                   |longueurs des côtés du toit       |
 |Carre           |Rien                   |longueur cadre                    |
 |Carres          |positionpc1            |longueur pc (petit carré)         |
-=======
 
 ### Figure Maison :
 |Maison          |Recoit                 |Fournit                                             |
@@ -61,8 +61,8 @@ On ne précise pas toutes les fonctions utilisées mais seulement celles qui ont
 
 
 ## Conclusion :
-Turtle est une librairie trés dynamique et plait beaucoup aux enfants. C'est normal :), elle permet de dessiner des figures trés impressionnantes. Dessiner une figure demande cependant beaucoup d'imagination et on en a usé tout au long du projet avec un certain joie. On espère que ces codes serviront à l'avenir.
+Turtle est une librairie trés dynamique et plait beaucoup aux enfants. C'est normal :), elle permet de dessiner des figures trés impressionnantes. Dessiner une figure demande cependant beaucoup d'imagination et on en a usé tout au long du projet avec une certaine joie. On espère que ces codes serviront à l'avenir.
 
-## Recommadation :
-Pour tester les fonctions du programme, rendez vous au fichier jupyter programme_principale, enlevez les commentaires sur les fonctions et executez-en !
+## Recommandation :
+Pour tester les fonctions du programme, rendez vous au fichier jupyter programme_principal.ipynb, enlevez les tags de commentaires sur les fonctions et executez-en !
 
